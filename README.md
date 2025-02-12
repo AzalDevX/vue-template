@@ -1,6 +1,6 @@
 # Vue 3 + Tailwind CSS Starter Template
 
-Este es un template minimalista y elegante para proyectos con Vue 3 y Tailwind CSS, configurado con modo oscuro por defecto y una estructura clara y escalable. Puedes ver el ejemplo [aquí](https://vue-template.ejemplo.com)
+Este es un template minimalista y elegante para proyectos con Vue 3 y Tailwind CSS, configurado con modo oscuro por defecto y una estructura clara y escalable. Puedes ver el ejemplo [aquí](https://vue-template.azaldev.com)
 
 ## ✨ Características
 
@@ -43,7 +43,7 @@ colors: {
 
 ### Navegación
 
-Modifica las rutas en src/router/index.js y actualiza el componente NavigationMenu.vue según tus necesidades.
+Modifica las rutas en src/router/index.js y actualiza el componente Menu.vue según tus necesidades.
 
 ## 📝 Scripts Disponibles
 
