@@ -25,26 +25,6 @@ npm install
 
 npm run dev
 
-## 📁 Estructura del Proyecto
-
-├── public/
-├── src/
-│ ├── assets/
-│ │ └── main.css
-│ ├── components/
-│ │ ├── Card.vue
-│ │ └── Menu.vue
-│ ├── pages/
-│ │ ├── About.vue
-│ │ ├── Contact.vue
-│ │ ├── Home.vue
-│ │ └── NotFound.vue
-│ ├── router/
-│ │ └── index.js
-│ ├── App.vue
-│ └── main.js
-└── package.json
-
 ## 🎨 Personalización
 
 ### Colores y Tema
