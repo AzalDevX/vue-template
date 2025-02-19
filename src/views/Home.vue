@@ -23,11 +23,11 @@
 
       <ul role="list" class="grid grid-cols-1 md:grid-cols-2 gap-6">
         <Card
-          href="https://www.npmjs.com/package/create-vue-template"
+          href="https://www.npmjs.com/package/create-azaldev-template"
           title="Instala con NPM"
-          body="Crea un nuevo proyecto rápidamente usando: npx create-vue-template. ¡Comienza en segundos!" />
+          body="Crea un nuevo proyecto rápidamente usando: npx create-azaldev-template. ¡Comienza en segundos!" />
         <Card
-          href="https://lalo.lol/create-vue-template"
+          href="https://lalo.lol/create-astro-template"
           title="Documentación"
           body="Aprende a usar el paquete NPM, y consulta las guías para personalizar el template." />
         <Card
@@ -57,7 +57,7 @@
         >
         -
         <a
-          href="https://lalo.lol/create-vue-template"
+          href="https://lalo.lol/create-azaldev-template"
           class="text-accent-primary hover:underline"
           >Paquete NPM</a
         >
